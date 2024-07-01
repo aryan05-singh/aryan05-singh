@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">I'm dedicated to learning about Web3 </h3>
+<h3 align="center">I'm dedicated to learning about Web3!</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
